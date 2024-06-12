@@ -19,7 +19,6 @@ Feel free to connect with me if you share a similar passion or if you would like
 
 ---
 
-![Roahith's GitHub stats](https://github-readme-stats.vercel.app/api?username=roahr&show_icons=true&theme=radical)
+![Roahith's GitHub stats](https://github-readme-stats.vercel.app/api?username=roahr&show_icons=true&theme=tokyonight)
 
 
----
