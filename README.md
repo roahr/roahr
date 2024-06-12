@@ -12,7 +12,7 @@ I’m an undergraduate at Shiv Nadar University, majoring in Cyber Security. I l
 - 💻 Crafting solutions to complex problems
 - 🔍 Interested in teaming up for Hackathons and Capture The Flag (CTF) competitions.
 - 🤝 Seeking opportunities for collaboration and internships
-- ⚡ Fun fact: I'm Bat Man 🦇
+
 
 
 Feel free to connect with me if you share a similar passion or if you would like to explore potential collaboration opportunities. Let's work together towards a safer digital future! 🚀
