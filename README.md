@@ -15,16 +15,6 @@ I’m an undergraduate at Shiv Nadar University, majoring in Cyber Security. I l
 
 Feel free to connect with me if you share a similar passion or if you would like to explore potential collaboration opportunities. Let's work together towards a safer digital future! 🚀
 
----
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=roahr&theme=dracula" alt="Contribution Graph"/>
-</p>
-
----
-
-## 📫 Connect With Me
-
 <p align="center">
   <a href="mailto:roahith11@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
@@ -40,10 +30,18 @@ Feel free to connect with me if you share a similar passion or if you would like
   </a>
 </p>
 
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="footer"/>
 </p>
+
+
+---
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=roahr&theme=dracula" alt="Contribution Graph"/>
+</p>
+
+---
+
 
 
